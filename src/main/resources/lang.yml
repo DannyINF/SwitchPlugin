@@ -1,0 +1,29 @@
+stop:
+  success:
+    de: Das Event wurde gestoppt!
+    en: The event has been stopped!
+    custom: <Write your own version of the event being stopped!>
+  error:
+    de: Das Event wurde noch nicht gestartet. Nutze /switchstart um es zu beginnen!
+    en: The event has not been started. Use /switchstart to start it!
+    custom: <Write your own version of the event not being started yet. You may include /switchstart to help the user out!>
+
+start:
+  success:
+    de: Das Event wurde gestartet!
+    en: The event has been started!
+    custom: <Write you own version of the event being started!>
+  error:
+    de: Das Event ist schon gestartet. Nutze /switchstop um es zu beenden!
+    en: The event has already begun. Use /switchstop to end it!
+    custom: <Write your own version of the event being already started. You may include /switchstop to help the user out!>
+
+countdown:
+  de: Die Spieler werden in [TIME_REMAINING] Sekunden getauscht!
+  en: The players will be switched in [TIME_REMAINING] seconds!
+  custom: <Write your own version of the players being switched in [TIME_REMAINING] seconds!>
+
+switch:
+  de: Die Spieler wurden getauscht!
+  en: The players have been switched!
+  custom: <Write your own version of the players having been switched!>

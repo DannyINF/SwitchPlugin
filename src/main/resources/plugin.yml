@@ -1,0 +1,13 @@
+name: SwitchPlugin
+version: 1.0.0
+main: com.github.moorhuhnhd.switchplugin.SwitchPlugin
+api-version: 1.15
+author: _Moorhuhn_
+
+commands:
+  switchstart:
+    description: Starts the switch event.
+    usage: /switchstart
+  switchstop:
+    description: Stops the switch event.
+    usage: /switchstop
